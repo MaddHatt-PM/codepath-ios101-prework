@@ -38,6 +38,7 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+### Inspiration
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Features can be repeated for multiple apps.
 - **Apollo for Reddit** - Newsreader
     - **Back and Forward Swipe Navigation**: Typically apps can accept a swipe from the left edge to interactively go to the previous screen. Apollo was able to do the same thing in reverse for screens you navigated away from. This was likely implemented as a stack where screens navigated away from would be pushed onto the forward stack. This would likely require a custom made navigation controller.
@@ -59,7 +60,12 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
     - **Improving upon Simplicity**: It is a near guarentee that every single device owner has at one point used the default calculator (excluding the iPad). The developer needs to again strike a balance between familarity and innovation. One of the ways this was accomplished was with the unit conversion mode. While simple, the feature doubles the useablity of the familiar calculator app. 
 - **Target** - Commerce
     - **Simplistic Shopping Experience**: It is refreshing to be able to open a commerce app without most of the app being products. Most customers are likely to open the app with an idea of what to buy already in mind. By bringing related products in with the searched product, the customer is better onboarded to the commerce experience. Additionally, the curbside pickup feature's accelerated development cycle was a crucial feature for the peak of the US pandemic.
-    - **Item Finding and Price Checking**: One of the most longterm defining features of the Target app was its relationship to the in-store experience. To this day, the in-app and onsite shopping experience are awkwardly opposed to each other. In comparison, Target's app will show you the item's location in comparison to your own. For the onsite to in-app experience, a barcode reader 
+    - **Item Finding and Price Checking**: One of the most longterm defining features of the Target app was its relationship to the in-store experience. To this day, the in-app and onsite shopping experience are awkwardly opposed to each other. In comparison, Target's app will show you the item's location in comparison to your own. For the onsite to in-app experience, a barcode reader provides utility for products with missing or out-of-date pricing information.
+
+### Gradebook - My App Idea
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+My inspiration for **Gradebook** is the student experience of not completely knowing their grade until crucial points of the semester, typically right before finals. Some instructors may do all their grades at once, the assignments may be laid out in such a way that larger weighted assignments are later in the semester, or their may be a mismatch between the final weights and the displayed weights. For this project, I would like the user interface to be visually informative such that the user will know their best, average, and worst case scenarios for the rest of their course. The process of adding an assignment needs to be as seamless as possible to encourage interactions that are short, frequent, and close to the moment. 
 
 
 ## Notes
